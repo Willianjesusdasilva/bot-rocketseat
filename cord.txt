@@ -1,0 +1,14 @@
+npcpk = 1137 / 507
+
+captcha = 1350,380,50,20
+ok captcha = 1149 649
+
+chat = 1530 / 822
+
+msg = /re off 
+
+move = /arena11
+
+skil = 1828 / 791
+
+level = 930, 200, 50, 20
